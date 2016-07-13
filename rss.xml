@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[moonsidemedia]]></title>
+        <description><![CDATA[moonsidemedia]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Jul 2016 15:12:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Photography]]></title>
+            <description><![CDATA[<article><h1>Photography</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/01986f03ed7e061083af04c659f0e29c/noop.jpg?input=http%3A%2F%2Fmoonsidemedia.com%2Fkoken%2Fstorage%2Fcache%2Fimages%2F000%2F175%2F20140621-danny-emily-056-Edit%2Cmedium_large.1443630583.jpg"></article>]]></description>
+            <link>http://moonsidemedia.com/albums/photography/</link>
+            <guid isPermaLink="false">2468ecd5-ffec-4d2a-967f-ee759a40f7e3</guid>
+            <pubDate>Wed, 13 Jul 2016 15:12:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
