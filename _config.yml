@@ -1,0 +1,14 @@
+layout_spectrum: 0.923488930799067
+typography_spectrum: 0.38657296635210514
+color:
+  brandStrength: 0.04197321436367929
+  lightness: 0.6752644283697009
+  saturation: 0.9935422125272453
+  rhythmicContrast: 0.536592167802155
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: moonsidemedia
