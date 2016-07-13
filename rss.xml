@@ -2,10 +2,24 @@
     <channel>
         <title><![CDATA[moonsidemedia]]></title>
         <description><![CDATA[moonsidemedia]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/moonsidemedia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jul 2016 15:12:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Jul 2016 15:12:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/moonsidemedia/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Graphic Design]]></title>
+            <description><![CDATA[<article><h1>Graphic Design</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/17c10a4bd02d07ca2a715cc6ed272566/noop.jpg?input=http%3A%2F%2Fmoonsidemedia.com%2Fkoken%2Fstorage%2Fcache%2Fimages%2F000%2F032%2F20131117-003%2Cmedium_large.1443630583.jpg"></article>]]></description>
+            <link>http://moonsidemedia.com/albums/graphic-design-1/</link>
+            <guid isPermaLink="false">90afb5a5-870e-49a8-96d0-c9dd81387089</guid>
+            <pubDate>Wed, 13 Jul 2016 15:12:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Video]]></title>
+            <description><![CDATA[<article><h1>Video</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/35ab9e3505d03d386c7be4b1d8757b70/noop.png?input=https%3A%2F%2Fdl.dropboxusercontent.com%2Fu%2F3367726%2FMoonside%2520Media_Logo02.png"></article>]]></description>
+            <link>http://moonsidemedia.com/pages/videos/</link>
+            <guid isPermaLink="false">c241aeac-b90a-49a6-9a2f-c62bfc001664</guid>
+            <pubDate>Wed, 13 Jul 2016 15:12:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Photography]]></title>
             <description><![CDATA[<article><h1>Photography</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/01986f03ed7e061083af04c659f0e29c/noop.jpg?input=http%3A%2F%2Fmoonsidemedia.com%2Fkoken%2Fstorage%2Fcache%2Fimages%2F000%2F175%2F20140621-danny-emily-056-Edit%2Cmedium_large.1443630583.jpg"></article>]]></description>
